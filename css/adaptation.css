@@ -1,0 +1,21 @@
+@media(max-width: 1200px){
+    .nav_link{
+        margin: 0px 15px;
+
+    }
+    .wrap{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media(max-width: 750px){
+    .wrap ul{
+        display: none;
+    }
+    .sanya_lox{
+        display: none;
+    }
+    .lenya{
+        display: block;
+    }
+}
